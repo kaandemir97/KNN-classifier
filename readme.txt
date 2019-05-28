@@ -1,4 +1,5 @@
 COMP 307 Assignment 1 Part 1
+EVERY .py FILE IN THIS REPOSITORY WAS WRITTEN BY KAAN DEMIR. DATA WAS PROVIDED BY THE UNIVERSITY
 Code can be executed in terminal (linux/KDE) by invoking
 python main.py <k> <training-data.txt> <test-data.txt>
 <k> is the specified number of neighbours to run the algorithm on
